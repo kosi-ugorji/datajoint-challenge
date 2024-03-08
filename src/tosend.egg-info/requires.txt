@@ -1,0 +1,6 @@
+datajoint
+numpy
+matplotlib
+
+[:python_version < "3.8"]
+pickle5
