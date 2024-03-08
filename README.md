@@ -7,4 +7,4 @@ This package is designed for managing and visualizing neuroscience data.
 Install my_package using pip:
 
 ```bash
-pip install kosi_dj_package
+pip install tosend
